@@ -3,7 +3,7 @@
 ![Framework](https://img.shields.io/badge/Spring-Boot-red)
 ![Frontend](https://img.shields.io/badge/Frontend-Angular/HTML/CSS/JS-green)
 ![Data-base](https://img.shields.io/badge/MySql-red)
-![Flask](https://img.shields.io/badge/Flask-Rest-Api-blueviolet)
+![Flask](https://img.shields.io/badge/Flask/Rest-Api-blueviolet)
 
 
 
