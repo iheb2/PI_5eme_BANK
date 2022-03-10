@@ -22,10 +22,10 @@ After satisfying the functional and non-functional requirements of the specifica
 
 ## 📝 My tasks
 
-1- Elaborating the report .
-2- Transaction management :
-Enabling customers to do transactions and to track history.
-Training a classification model and then devoloping a fraud detection Flask Rest Api and using it in the application : Anti money laundering Detector (Deep learning ). If the flag of fraud is raised the agents can consult the operation to identify whether a fraud or not else the transaction is executed . .
+* 1- Elaborating the report .
+* 2- Transaction management :
+    *Enabling customers to do transactions and to track history.
+    *Training a classification model and then devoloping a fraud detection Flask Rest Api and using it in the application : Anti money laundering Detector (Deep learning ). If the flag of fraud is raised the agents can consult the operation to identify whether a fraud or not else the transaction is executed . .
 3- Insurance Reclamation management :
 Enabling customers reclaim for insurance indemnisation .
 Training a classification model and then devoloping a fraud detection Flask Rest Api and using it in the application : Insurance Fraud Detector . If the flag of fraud is raised the agents can consult the operation to identify whether a fraud or not else the amount is fixed and refunded .
