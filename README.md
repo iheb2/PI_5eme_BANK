@@ -2,8 +2,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Spring-Boot-red)
 ![Frontend](https://img.shields.io/badge/Frontend-Angular/HTML/CSS/JS-green)
-![Frameworkk](https://img.shields.io/badge/Flask-Rest-Api-red)
 ![Data-base](https://img.shields.io/badge/MySql-red)
+![Flask](https://img.shields.io/badge/Flask-Rest-blueviolet)
 
 
 
