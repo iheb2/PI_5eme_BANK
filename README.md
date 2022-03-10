@@ -10,7 +10,12 @@
 ![alt text](https://raw.githubusercontent.com/iheb2/Pi_5eme_Bank/master/bn1.png)
 ![alt text](https://raw.githubusercontent.com/iheb2/Pi_5eme_Bank/master/bn2.png)
 
-  
+## 🎯 Video demo
+> ###   URL   : https://drive.google.com/file/d/1RvdZHUdfnNkhsWVj-sfa1mSm9wUI5Ugg/view
+## 📝 Notebooks
+-Anti Money Laundering : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Anti-Money-Laundering.ipynb
+-Credit Card Fraud Detection : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Credit%20Card%20Fraud%20Detection.ipynb
+-Fraud Detection in Insurance Claims : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Fraud%20Detection%20in%20Insurance%20Claims.ipynb
 ## 📝 Description
 - A 6-month academic group project to develop an online bank that can manage customers, operations, employees and financial products...
 After satisfying the functional and non-functional requirements of the specification. I proposed to my supervisors to add 3 fraud detection sections as explained below and done .
@@ -27,35 +32,11 @@ After satisfying the functional and non-functional requirements of the specifica
 
 
 ## ⏳ How Did i consumed the Flask Rest Api
-- Download the dataset for custom training and place those two folders  in a folder named **"dataset"**
 - This is shown in the object sequence diagram of anti money laundering detector in transactions :
-
-## :desktop_computer:	Installation
 ![alt text](https://github.com/iheb2/Pi_5eme_Bank/blob/master/seq1.png?raw=true)
 
-### :Requirements
-* Python 3.6+
-* tensorflow>=1.15.2
-* keras==2.3.1
-* imutils==0.5.3
-* numpy==1.18.2
-* opencv-python==4.2.0.*
-* matplotlib==3.2.1
-* scipy==1.4.1
 
-## : Setup the environment
-1. Create a new virtual environment 
-2. Activate the new environment
-3. Donwlnload the file requirement.txt  
-4. Install the requirement 
-```bash
-$ pip install -r requirements.txt 
 
-```
-## 🎯 Inference demo
- Testing in  **Real time ** with the pc camera   :-
-```bash
-$ python detect_mask_video.py
 
-```
+
 
