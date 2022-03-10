@@ -22,24 +22,16 @@ After satisfying the functional and non-functional requirements of the specifica
 
 ## 📝 My tasks
 
-* 1- Elaborating the report .
-* 2- Transaction management :
-    *Enabling customers to do transactions and to track history.
-    *Training a classification model and then devoloping a fraud detection Flask Rest Api and using it in the application : Anti money laundering Detector (Deep learning ). If the flag of fraud is raised the agents can consult the operation to identify whether a fraud or not else the transaction is executed . .
-3- Insurance Reclamation management :
-Enabling customers reclaim for insurance indemnisation .
-Training a classification model and then devoloping a fraud detection Flask Rest Api and using it in the application : Insurance Fraud Detector . If the flag of fraud is raised the agents can consult the operation to identify whether a fraud or not else the amount is fixed and refunded .
-4- Credit card management :
-Delivering credit cards to allow customers to pay online .
-Training a classification model using deeplearning and then devoloping a fraud detection Flask Rest Api and using it in the application : Credit card payment Fraud Detector. If the flag of fraud is raised the agents can consult the operation to identify whether a fraud or not else the amount asked to preleve from the account is authorized.
+![alt text](https://github.com/iheb2/Pi_5eme_Bank/blob/master/Screenshot%202022-03-10%20091917.png?raw=true)
 
 
 
-## ⏳ Dataset
+## ⏳ How Did i consumed the Flask Rest Api
 - Download the dataset for custom training and place those two folders  in a folder named **"dataset"**
-- https://drive.google.com/drive/folders/1WCxe1EuxLo6qyGVpupcEMTgN83xpgHM_ 
+- This is shown in the object sequence diagram of anti money laundering detector in transactions :
 
 ## :desktop_computer:	Installation
+![alt text](https://github.com/iheb2/Pi_5eme_Bank/blob/master/seq1.png?raw=true)
 
 ### :Requirements
 * Python 3.6+
