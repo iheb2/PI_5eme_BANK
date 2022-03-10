@@ -1,10 +1,11 @@
 # Online Bank With Frauds detection
-![alt text](https://fypidea.com/wp-content/uploads/2020/06/Potterytableware-tiles..png)
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-Spring Boot-red)
+![Framework](https://img.shields.io/badge/Spring-Boot-red)
 ![Frontend](https://img.shields.io/badge/Frontend-Angular/HTML/CSS/JS-green)
 ![Rest API](https://img.shields.io/badge/Flask-Rest-Api-fcba03)
 ![Data base](https://img.shields.io/badge/MySql-fcba03)
+
+![alt text](https://fypidea.com/wp-content/uploads/2020/06/Potterytableware-tiles..png)
 
 - This repository represents **" Face mask detection using MobileNetV2 "**.
 - With the help of this project we can detect if a person is wearing a mask or not based on the **Face Detection**.
