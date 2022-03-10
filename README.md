@@ -13,9 +13,11 @@
 ## 🎯 Video demo
 > ###   URL   : https://drive.google.com/file/d/1RvdZHUdfnNkhsWVj-sfa1mSm9wUI5Ugg/view
 ## 📝 Notebooks
--Anti Money Laundering : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Anti-Money-Laundering.ipynb
--Credit Card Fraud Detection : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Credit%20Card%20Fraud%20Detection.ipynb
--Fraud Detection in Insurance Claims : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Fraud%20Detection%20in%20Insurance%20Claims.ipynb
+-Anti Money Laundering : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Anti-Money-Laundering.ipynb .
+
+-Credit Card Fraud Detection : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Credit%20Card%20Fraud%20Detection.ipynb .
+
+-Fraud Detection in Insurance Claims : https://github.com/iheb2/Pi_5eme_Bank/blob/master/Fraud%20Detection%20in%20Insurance%20Claims.ipynb .
 ## 📝 Description
 - A 6-month academic group project to develop an online bank that can manage customers, operations, employees and financial products...
 After satisfying the functional and non-functional requirements of the specification. I proposed to my supervisors to add 3 fraud detection sections as explained below and done .
