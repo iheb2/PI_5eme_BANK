@@ -2,8 +2,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Spring-Boot-red)
 ![Frontend](https://img.shields.io/badge/Frontend-Angular/HTML/CSS/JS-green)
-![Rest API](https://img.shields.io/badge/Flask-Rest-Api-fcba03)
-![Data base](https://img.shields.io/badge/MySql-fcba03)
+![Flask](https://img.shields.io/badge/Rest-Api-red)
+![Data-base](https://img.shields.io/badge/MySql-red)
+
+
 
 ![alt text](https://fypidea.com/wp-content/uploads/2020/06/Potterytableware-tiles..png)
 
