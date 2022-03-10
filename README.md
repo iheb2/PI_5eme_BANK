@@ -7,7 +7,8 @@
 
 
 
-![alt text](https://fypidea.com/wp-content/uploads/2020/06/Potterytableware-tiles..png)
+![alt text](https://raw.githubusercontent.com/iheb2/Pi_5eme_Bank/master/bn1.png)
+![alt text](https://raw.githubusercontent.com/iheb2/Pi_5eme_Bank/master/bn2.png)
 
 - This repository represents **" Face mask detection using MobileNetV2 "**.
 - With the help of this project we can detect if a person is wearing a mask or not based on the **Face Detection**.
