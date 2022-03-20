@@ -23,7 +23,7 @@
 After satisfying the functional and non-functional requirements of the specification. I proposed to my supervisors to add 3 fraud detection sections as explained below .
 
 ## 📝 Architecture overview
-- In a web application project, we mainly have two main parts that interact together which are the Web Interface part and the Business part. This project consists in developing a full stack web application with a RESTFUL API using Spring Boot for the Back End and the the Back End and the Angular framework for the Front End.
+- In a web application project, there are mainly two parts that interact together, which are the Web Interface part and the Business part. This project consists in developing a full stack web application with a RESTFUL API using Spring Boot for the Back End and the Angular framework for the Front End.
 
 ![alt text](https://raw.githubusercontent.com/iheb2/Pi_5eme_Bank/master/archi1.png)
 
@@ -33,7 +33,7 @@ After satisfying the functional and non-functional requirements of the specifica
 
 
 
-## ⏳ How Did i consumed the Flask Rest Api
+## ⏳ How the Flask Rest Api was consumed
 - This is shown in the object sequence diagram of anti money laundering detector in transactions :
 ![alt text](https://github.com/iheb2/Pi_5eme_Bank/blob/master/seq1.png?raw=true)
 
